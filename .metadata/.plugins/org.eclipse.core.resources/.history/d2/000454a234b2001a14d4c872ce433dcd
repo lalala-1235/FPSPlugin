@@ -1,0 +1,3 @@
+name: PvPlugin
+version: 1.0
+main: main.Main
